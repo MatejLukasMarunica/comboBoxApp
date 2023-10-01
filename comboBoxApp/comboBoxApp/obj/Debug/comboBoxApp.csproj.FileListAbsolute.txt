@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\comboBoxApp\comboBoxApp\bin\Debug\comboBoxApp.exe.config
+C:\Users\PC\source\repos\comboBoxApp\comboBoxApp\bin\Debug\comboBoxApp.exe
+C:\Users\PC\source\repos\comboBoxApp\comboBoxApp\bin\Debug\comboBoxApp.pdb
+C:\Users\PC\source\repos\comboBoxApp\comboBoxApp\obj\Debug\comboBoxApp.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\comboBoxApp\comboBoxApp\obj\Debug\comboBoxApp.Form1.resources
+C:\Users\PC\source\repos\comboBoxApp\comboBoxApp\obj\Debug\comboBoxApp.Properties.Resources.resources
+C:\Users\PC\source\repos\comboBoxApp\comboBoxApp\obj\Debug\comboBoxApp.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\comboBoxApp\comboBoxApp\obj\Debug\comboBoxApp.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\comboBoxApp\comboBoxApp\obj\Debug\comboBoxApp.exe
+C:\Users\PC\source\repos\comboBoxApp\comboBoxApp\obj\Debug\comboBoxApp.pdb
